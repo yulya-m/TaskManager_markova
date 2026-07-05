@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using TaskManager_Markova.Classes;
+﻿using TaskManager_Markova.Classes;
 
 namespace TaskManager_Markova.ViewModels
 {

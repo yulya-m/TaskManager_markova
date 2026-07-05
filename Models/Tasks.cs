@@ -108,7 +108,7 @@ namespace TaskManager_Markova.Models
 		{
 			get
 			{
-				return isEnable
+				return isEnable;
 			}
 			set
 			{
